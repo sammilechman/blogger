@@ -1,0 +1,1 @@
+Welcome to the Blogger project - from the Jump Start Labs tutorial.
